@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    style="?attr/materialButtonOutlinedStyle"
+    android:layout_marginHorizontal="@dimen/smaller_margin"
+    app:strokeColor="@color/primary"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent" />

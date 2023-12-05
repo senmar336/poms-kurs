@@ -1,0 +1,78 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/legendLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="horizontal">
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/legendText1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/day7"
+        android:textColor="@color/secondaryLight"
+        android:textSize="14sp" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/legendText2"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/day1"
+        android:textColor="@color/secondaryLight"
+        android:textSize="14sp" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/legendText3"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/day2"
+        android:textColor="@color/secondaryLight"
+        android:textSize="14sp" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/legendText4"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/day3"
+        android:textColor="@color/secondaryLight"
+        android:textSize="14sp" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/legendText5"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/day4"
+        android:textColor="@color/secondaryLight"
+        android:textSize="14sp" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/legendText6"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/day5"
+        android:textColor="@color/secondaryLight"
+        android:textSize="14sp" />
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/legendText7"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/day6"
+        android:textColor="@color/secondaryLight"
+        android:textSize="14sp" />
+
+</LinearLayout>

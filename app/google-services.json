@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "749357893211",
+    "firebase_url": "https://kurs-games-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kurs-games",
+    "storage_bucket": "kurs-games.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749357893211:android:c691123dc420c9b92f617e",
+        "android_client_info": {
+          "package_name": "com.poms.android.gameagregator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749357893211-sdme2873jbfus4li3vsc1mmta2j6fl9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD3His4ks81rA2E-Nz-xcxmnflvgWDXwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749357893211-sdme2873jbfus4li3vsc1mmta2j6fl9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749357893211:android:5f842022bb7eff382f617e",
+        "android_client_info": {
+          "package_name": "com.poms.android.gameagregator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749357893211-sdme2873jbfus4li3vsc1mmta2j6fl9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD3His4ks81rA2E-Nz-xcxmnflvgWDXwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749357893211-sdme2873jbfus4li3vsc1mmta2j6fl9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
